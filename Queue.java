@@ -53,7 +53,7 @@ class operation
             rear++;
             arr[rear]=no;
             System.out.println(no+"inserted in queue");
-        }
+        } 
     }
     void dequeue()
     {
